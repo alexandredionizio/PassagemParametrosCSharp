@@ -4,7 +4,7 @@ namespace PassagemParam
 {
     //Goal..: Entender as quatro formas de passar um parâmetro para um método no C#
     //Date..: 09-07-2021
-    //Author: Alexandre Dio
+    //Author: Alexandre Dionizio
     
     public class Program
     {
