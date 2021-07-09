@@ -1,0 +1,16 @@
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.csproj.AssemblyReference.cache
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.AssemblyInfoInputs.cache
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.AssemblyInfo.cs
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.csproj.CoreCompileInputs.cache
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\PassagemParam.exe
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\PassagemParam.deps.json
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\PassagemParam.runtimeconfig.json
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\PassagemParam.runtimeconfig.dev.json
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\PassagemParam.dll
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\ref\PassagemParam.dll
+C:\Users\aleac\source\repos\PassagemParam\bin\Debug\net5.0\PassagemParam.pdb
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.dll
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\ref\PassagemParam.dll
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.pdb
+C:\Users\aleac\source\repos\PassagemParam\obj\Debug\net5.0\PassagemParam.genruntimeconfig.cache
